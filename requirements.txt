@@ -1,0 +1,8 @@
+numpy==1.24.3
+opencv-python==4.8.0.76
+tensorflow==2.15.0
+protobuf==3.20.3  # Prevents TensorFlow compatibility errors
+pillow==9.5.0
+scipy
+scikit-learn
+matplotlib
